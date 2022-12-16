@@ -8,7 +8,7 @@
 </ul>
 <hr>
 <h2> My Contact: </h2>
-<a href=" "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
 <a href="https://twitter.com/MurilloBoroni"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> </a>
 <hr>
 <h1 align="center"> My Skills: </h1>
