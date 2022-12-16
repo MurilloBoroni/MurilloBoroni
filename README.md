@@ -4,7 +4,7 @@
 <hr>
 <ul>
 <li> 😃 Pronous: He/His </li>
-<li>  </li>
+<li> 😎 Curiosity: I love games and technology, I've always been in touch, I've always wanted to be a game developer, but I think it's a bit complicated. </li>
 </ul>
 <hr>
 <h2> My Contact: </h2>
