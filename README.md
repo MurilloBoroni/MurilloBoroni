@@ -1,8 +1,9 @@
 <h1 align="center"> Murillo Boroni </h1>
-<h3 align="center"> Learning: Front End </h3>
+<h3 align="center"> Bacharel em Ciência da Computação </h3>
 <h3> </h3>
 <hr>
 <ul>
+<li> 🤓 Always learning </li>
 <li> 😃 Pronous: He/His </li>
 <li> 😎 Curiosity: I love games and technology, I've always been in touch, I've always wanted to be a game developer, but I think it's a bit complicated. </li>
 </ul>
