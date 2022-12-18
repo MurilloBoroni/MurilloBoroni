@@ -1,3 +1,6 @@
+<!-- h2 é usado para destacar um titulo, podendo ser usado com align=center para centralizar o mesmo -->
+<!-- hr é usado para fixar uma linha para dividir o titulo do proximo bloco -->
+<!-- o <li> é usado para criar uma linha, como por exemplo um paragrafo, o <ul> é usado para separar aonde começa e aonde termina o bloco -->
 <h1 align="center">Bem Vindo😁, me chamo Murillo Boroni </h1>
 <h3 align="center"> Bacharel em Ciência da Computação </h3>
 <h4 align="center"> Learning: Back-End and BlockChain </h4>
@@ -30,6 +33,8 @@
 <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge">
+<!--<img src=""> Esse comando é usado para upar uma imagem-->
 <hr>
 <h2> IDE: </h2>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
