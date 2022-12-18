@@ -1,6 +1,6 @@
 <h1 align="center">Bem Vindo😁, me chamo Murillo Boroni </h1>
 <h3 align="center"> Bacharel em Ciência da Computação </h3>
-<h3> </h3>
+<h4 align="center"> Learning: Back-End and BlockChain </h4>
 <hr>
 <ul>
 <li> 🤓 Always learning </li>
@@ -25,6 +25,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white">
+<hr>
+<h2> I'm interested: </h2>
+<img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 <hr>
 <h2> IDE: </h2>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
