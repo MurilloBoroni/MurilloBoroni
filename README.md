@@ -14,6 +14,7 @@
 <h2> My Contact: </h2>
 <a href="https://www.linkedin.com/in/murillo-boroni-893159255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 <a href=mailto:murilloboroni@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+<a href="https://linktr.ee/murilloboroni"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"> </a>
 <a href="https://twitter.com/MurilloBoroni"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> </a>
 <a href="https://pt.anotepad.com/notes/k2efpw55"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
 <hr>
